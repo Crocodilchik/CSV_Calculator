@@ -19,10 +19,10 @@
 
 Release - папка, содержащая исполняемый файл для windows и тестовый пример.  
 Code - папка, содержащая исходный код проекта.  
-	⋅⋅*CSV_calculator.h - класс для вычисления csv формы  
-	⋅⋅*CSV_structure.h - класс для хранения csv формы  
-	⋅⋅*Includer.h - файл для подключения библиотек  
-	⋅⋅*Source.cpp - программа  
+    - CSV_calculator.h - класс для вычисления csv формы  
+    - CSV_structure.h - класс для хранения csv формы  
+    - Includer.h - файл для подключения библиотек  
+    - Source.cpp - программа  
 
 ## Запуск для windows:  
 	CSV_Calc.exe Test.csv  
