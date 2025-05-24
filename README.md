@@ -3,7 +3,7 @@ Calculator for cells in csv files for YADRO
 
 Структура проекта:
 
-	CSV_Calculator_info
+	CSV_Calculator
 	|
 	|--README
 	|
