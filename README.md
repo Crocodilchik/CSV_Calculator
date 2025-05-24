@@ -1,7 +1,7 @@
 # CSV_Calculator
-##Calculator for cells in csv files for YADRO
+## Calculator for cells in csv files for YADRO
 
-##Структура проекта:
+## Структура проекта:
 
 	CSV_Calculator
 	|
@@ -19,17 +19,17 @@
 
 Release - папка, содержащая исполняемый файл для windows и тестовый пример.  
 Code - папка, содержащая исходный код проекта.  
-	..*CSV_calculator.h - класс для вычисления csv формы  
-	..*CSV_structure.h - класс для хранения csv формы  
-	..*Includer.h - файл для подключения библиотек  
-	..*Source.cpp - программа  
+	..* CSV_calculator.h - класс для вычисления csv формы  
+	..* CSV_structure.h - класс для хранения csv формы  
+	..* Includer.h - файл для подключения библиотек  
+	..* Source.cpp - программа  
 
-##Запуск для windows:  
-	..*CSV_Calc.exe Test.csv  
+## Запуск для windows:  
+	..* CSV_Calc.exe Test.csv  
 
-##Компиляция и запуск для linux:  
-	..*g++ Source.cpp -o csvcalc  
-	..*./csvcalc Test.csv  
+## Компиляция и запуск для linux:  
+	..* g++ Source.cpp -o csvcalc  
+	..* ./csvcalc Test.csv  
 
 Почему плюсы, а не си?  
 Ну, во-первых, особой разницы в скорости выполнения нет, а в плюсах все функции можно удобно обернуть в классы.  
