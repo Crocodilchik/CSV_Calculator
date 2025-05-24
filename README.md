@@ -1,7 +1,7 @@
 # CSV_Calculator
-Calculator for cells in csv files for YADRO
+##Calculator for cells in csv files for YADRO
 
-Структура проекта:
+##Структура проекта:
 
 	CSV_Calculator
 	|
@@ -24,10 +24,10 @@ Code - папка, содержащая исходный код проекта
 	Includer.h - файл для подключения библиотек
 	Source.cpp - программа
 
-Запуск для windows:
+##Запуск для windows:
 	CSV_Calc.exe Test.csv
 
-Компиляция и запуск для linux:
+##Компиляция и запуск для linux:
 	g++ Source.cpp -o csvcalc
 	./csvcalc Test.csv
 
